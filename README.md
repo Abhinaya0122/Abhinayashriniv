@@ -17,4 +17,5 @@ Student at Kongu Engineering College
 ### My Achievements 
 - Won first prize in an inter-department hackathon conducted in collobaration with Shinelogics
 - Won first prize in an intra-department hackathon conducted in collobaration with Winfomi and Pentafox
-- Won first prize in Paper presentation conducted in Government College of Technology, Coimbatore 
+- Won first prize in Paper presentation conducted in Government College of Technology, Coimbatore
+- Won second prize in KEC hackathon conducted in Kongu Engineering College
